@@ -1,3 +1,6 @@
+
+
+
 const searchElement = document.querySelector('[data-city-search]')
 const searchBox = new google.maps.places.SearchBox(searchElement)
 
