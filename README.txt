@@ -10,7 +10,7 @@ Weather App with current weather data in default city
 * [Contact](#contact)
 
 ## General info
-Nice and simple application integrated with OpenWeather API ang Google Places API. The OpenWeather API is safe storaged in .env file. 
+Nice and simple application integrated with OpenWeather API and Google Places API. The OpenWeather API is safe storaged in .env file. 
 The weather icon and the data changes, when the city from input field is selected. 
 
 Based on tutorial: https://www.youtube.com/watch?v=OE7kml0pigw&ab_channel=WebDevSimplified
