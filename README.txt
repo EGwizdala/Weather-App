@@ -16,7 +16,7 @@ The weather icon and the data changes, when the city from input field is selecte
 Based on tutorial: https://www.youtube.com/watch?v=OE7kml0pigw&ab_channel=WebDevSimplified
 
 ## Layout
-![Screen](/weather-app.jpg)
+![WeatherApp](weather-app.jpg)
 
 ## Technologies and libraries
 * HTML5
